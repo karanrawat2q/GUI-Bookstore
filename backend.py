@@ -39,5 +39,4 @@ class Database:
 # delete(2)
 # update(4, "The Moon", "John Smooth", 1879, 12345678)
 # print(view())
-
 # print(search(author="Misd inzuaza"))

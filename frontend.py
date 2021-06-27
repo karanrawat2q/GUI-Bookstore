@@ -8,6 +8,7 @@
     delete an entry
     update an entry
     close 
+    ------------------------------------------
 """
 from tkinter import *
 from backend import Database
